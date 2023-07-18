@@ -42,3 +42,9 @@ CREATE TABLE medical_histories (
     patient_id INT,
     status VARCHAR
 );
+
+CREATE TABLE medical_treatment (
+    id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    treatment_id INT,
+    medical_history__id INT
+);
