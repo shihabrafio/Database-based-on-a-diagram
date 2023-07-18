@@ -83,7 +83,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 cd my-folder
-git clone https://github.com/Theodoraldo/entity-relationship-db.git
+git clone https://github.com/shihabrafio/Database-based-on-a-diagram.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
